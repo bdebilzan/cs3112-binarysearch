@@ -58,7 +58,7 @@ public class ProblemTwo {
         int n = array1.length;
         
         //search for a 10
-        int x = 11;
+        int x = 10;
         
         System.out.println();
         System.out.println();
